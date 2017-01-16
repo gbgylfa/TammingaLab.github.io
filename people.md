@@ -41,7 +41,7 @@ At its heart, a research lab is not a place but a group of people. Here are the 
 
 
 <img src="/images/duna.jpg"/>
-[**Duna Gylfadottir**](http://www.ling.upenn.edu/~gug/)  is a graduate student in Linguistics. Her primary interests are language variation and dialect accommodation.
+[**Duna Gylfadottir**](http://www.ling.upenn.edu/~gug/)  is a graduate student in Linguistics. Her primary interests are language variation and dialect accommodation. Her ongoing disseration work on the loss of seseo in Seville, Spain is being funded by an [NSF grant] (https://www.nsf.gov/awardsearch/showAward?AWD_ID=1627973&HistoricalAwards=false).
 
 <br style="clear:both" />
 
